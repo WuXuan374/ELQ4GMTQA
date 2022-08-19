@@ -1,11 +1,11 @@
 # ELQ4GMTQA
 Tailored ELQ for entity linking of [GMT-KBQA](https://github.com/HXX97/GMT-KBQA)
 ## Easy Start
-- Create an conda environment accroding to configuration file (`blink37.yml`):
+- Create an conda environment accroding to configuration file `blink37.yml`:
 ```bash
 conda env create -f blink37.yml
 ```
-- Activate conda environment:
+- Activate environment:
 ```bash
 conda activate blink37
 ```

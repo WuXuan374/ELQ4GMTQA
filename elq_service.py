@@ -92,4 +92,4 @@ if __name__ == "__main__":
     # service.close()
 
     # 0.0.0.0 makes it externally visible
-    app.run(host="0.0.0.0", port=5685, debug=False)
+    app.run(host="0.0.0.0", port=5688, debug=False)

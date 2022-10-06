@@ -11,9 +11,7 @@ class Service:
         """
         加载ELQ模型
         """
-        # TODO: revert to "models/"
         models_path = "models/"
-        # models_path = "/home2/xxhu/BLINK/models/" # the path where you stored the ELQ models
 
         ## config for elq
         config = {
